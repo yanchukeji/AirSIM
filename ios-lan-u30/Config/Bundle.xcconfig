@@ -1,0 +1,3 @@
+// Change this to a bundle identifier in a namespace you control before signing.
+// Do not reuse the upstream publisher identifier.
+LANU30_BUNDLE_IDENTIFIER = local.placeholder.lanu30
